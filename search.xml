@@ -2,6 +2,19 @@
 <search> 
   
   
+    
+    <entry>
+      <title>欢迎你的到来</title>
+      <link href="/2023/04/25/hello-world/"/>
+      <url>/2023/04/25/hello-world/</url>
+      
+        <content type="html"><![CDATA[<div style="background-color:#F8F8F8;padding:20px; text-align:center;">  <h1 id="请扫描二维码关注公众号"><a href="#请扫描二维码关注公众号" class="headerlink" title="请扫描二维码关注公众号"></a>请扫描二维码关注公众号</h1><p style="font-size:14px;margin-top:10px;">回复【对应关键字】获取资料</p><img src="/image/AIqrcode.jpg" alt="公众号二维码" style="max-width:100%;margin-top:20px;"></div>]]></content>
+      
+      
+      
+    </entry>
+    
+    
   
   
 </search>
